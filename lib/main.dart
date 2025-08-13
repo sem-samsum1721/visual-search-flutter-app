@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'screens/product_search_screen.dart'; // Dosya yolunuza göre ayarlayın
+import 'screens/product_search_screen.dart'; 
 
 void main() {
   runApp(const MyApp());
