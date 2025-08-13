@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Harici depolamadaki dosyalara erişim -->
+    <external-path 
+        name="external_files" 
+        path="." />
+        
+    <!-- Uygulama önbellek dizinine erişim -->
+    <cache-path 
+        name="cache_files" 
+        path="." />
+        
+    <!-- Uygulama dosyaları dizinine erişim (isteğe bağlı) -->
+    <files-path 
+        name="files_path" 
+        path="." />
+        
+    <!-- Uygulama dışındaki dosyalara erişim (isteğe bağlı) -->
+    <external-files-path 
+        name="external_files_path" 
+        path="." />
+</paths>
