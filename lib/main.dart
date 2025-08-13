@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ),
       debugShowCheckedModeBanner: false,
-      home: const ProductSearchScreen(), // Burada yeni ekranınızı çağırın
+      home: const ProductSearchScreen(), 
     );
   }
 }
